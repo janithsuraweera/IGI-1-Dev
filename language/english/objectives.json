@@ -1,0 +1,314 @@
+[
+    {
+        "key": "OBJECTIVE",
+        "value": "Objective"
+    },
+    {
+        "key": "COMPLETE",
+        "value": "Complete"
+    },
+    {
+        "key": "INCOMPLETE",
+        "value": "Incomplete"
+    },
+    {
+        "key": "FAILED",
+        "value": "Failed!"
+    },
+    {
+        "key": "OBJ_1_COMPLETE",
+        "value": "Objective 1 Complete."
+    },
+    {
+        "key": "OBJ_2_COMPLETE",
+        "value": "Objective 2 Complete."
+    },
+    {
+        "key": "OBJ_3_COMPLETE",
+        "value": "Objective 3 Complete."
+    },
+    {
+        "key": "OBJ_4_COMPLETE",
+        "value": "Objective 4 Complete."
+    },
+    {
+        "key": "OBJ_5_COMPLETE",
+        "value": "Objective 5 Complete."
+    },
+    {
+        "key": "OBJ_6_COMPLETE",
+        "value": "Objective 6 Complete."
+    },
+    {
+        "key": "OBJ_7_COMPLETE",
+        "value": "Objective 7 Complete."
+    },
+    {
+        "key": "OBJ_8_COMPLETE",
+        "value": "Objective 8 Complete."
+    },
+    {
+        "key": "OBJ_9_COMPLETE",
+        "value": "Objective 9 Complete."
+    },
+    {
+        "key": "OBJ_1_FAILED",
+        "value": "Objective 1 Failed."
+    },
+    {
+        "key": "OBJ_2_FAILED",
+        "value": "Objective 2 Failed."
+    },
+    {
+        "key": "OBJ_3_FAILED",
+        "value": "Objective 3 Failed."
+    },
+    {
+        "key": "OBJ_4_FAILED",
+        "value": "Objective 4 Failed."
+    },
+    {
+        "key": "OBJ_5_FAILED",
+        "value": "Objective 5 Failed."
+    },
+    {
+        "key": "OBJ_6_FAILED",
+        "value": "Objective 6 Failed."
+    },
+    {
+        "key": "OBJ_7_FAILED",
+        "value": "Objective 7 Failed."
+    },
+    {
+        "key": "OBJ_8_FAILED",
+        "value": "Objective 8 Failed."
+    },
+    {
+        "key": "OBJ_9_FAILED",
+        "value": "Objective 9 Failed."
+    },
+    {
+        "key": "OBJ_1_INCOMPLETE",
+        "value": "Objective 1 Incomplete."
+    },
+    {
+        "key": "OBJ_2_INCOMPLETE",
+        "value": "Objective 2 Incomplete."
+    },
+    {
+        "key": "OBJ_3_INCOMPLETE",
+        "value": "Objective 3 Incomplete."
+    },
+    {
+        "key": "OBJ_4_INCOMPLETE",
+        "value": "Objective 4 Incomplete."
+    },
+    {
+        "key": "OBJ_5_INCOMPLETE",
+        "value": "Objective 5 Incomplete."
+    },
+    {
+        "key": "OBJ_6_INCOMPLETE",
+        "value": "Objective 6 Incomplete."
+    },
+    {
+        "key": "OBJ_7_INCOMPLETE",
+        "value": "Objective 7 Incomplete."
+    },
+    {
+        "key": "OBJ_8_INCOMPLETE",
+        "value": "Objective 8 Incomplete."
+    },
+    {
+        "key": "OBJ_9_INCOMPLETE",
+        "value": "Objective 9 Incomplete."
+    },
+    {
+        "key": "M1_OBJ1",
+        "value": "Steal the truck near the main entrance."
+    },
+    {
+        "key": "M2_OBJ1",
+        "value": "Locate and retrieve the C4 charges from the warehouse."
+    },
+    {
+        "key": "M2_OBJ2",
+        "value": "Place one charge on each of the SAM launchers."
+    },
+    {
+        "key": "M2_OBJ3",
+        "value": "Proceed to the extraction point."
+    },
+    {
+        "key": "M3_OBJ1",
+        "value": "Locate and rescue Josef Priboi from inside the security building."
+    },
+    {
+        "key": "M3_OBJ2",
+        "value": "Escort Josef Priboi to the extraction point."
+    },
+    {
+        "key": "M3_OBJ3",
+        "value": "Find Josef Priboi's new position by checking the flight logs in the control tower."
+    },
+    {
+        "key": "M3_OBJ4",
+        "value": "Escape by stealing one of the fighter jets."
+    },
+    {
+        "key": "M4_OBJ1",
+        "value": "Secure the village and climb the water tower ready to cover the friendly troops."
+    },
+    {
+        "key": "M4_OBJ2",
+        "value": "Provide cover for the friendly troops until Josef has been freed"
+    },
+    {
+        "key": "M5_OBJ1",
+        "value": "Locate the radar dome keycard."
+    },
+    {
+        "key": "M5_OBJ2",
+        "value": "Insert the virus into the radar dome terminal."
+    },
+    {
+        "key": "M5_OBJ3",
+        "value": "Secure the extraction zone."
+    },
+    {
+        "key": "M6_OBJ1",
+        "value": "Obtain explosives from his main warehouse."
+    },
+    {
+        "key": "M6_OBJ2",
+        "value": "Shutdown generator - to disarm electric fence."
+    },
+    {
+        "key": "M6_OBJ3",
+        "value": "Set charges on fuel dump to make Priboi flee the saftey of his warehouse."
+    },
+    {
+        "key": "M6_OBJ4",
+        "value": "Search all filing cabinetts for encriminating evidence."
+    },
+    {
+        "key": "M7_OBJ1",
+        "value": "Infiltrate border crossing"
+    },
+    {
+        "key": "M7_OBJ2",
+        "value": "Alarm must not be raised when you get into truck"
+    },
+    {
+        "key": "M7_OBJ3",
+        "value": "Pass the security checkpoint."
+    },
+    {
+        "key": "M7_OBJ4",
+        "value": "Infiltrate bordercrossing."
+    },
+    {
+        "key": "M7_OBJ5",
+        "value": "Get to truck crossing border before timer expires."
+    },
+    {
+        "key": "M8_OBJ1",
+        "value": "Escape from infantry base."
+    },
+    {
+        "key": "M8_OBJ2",
+        "value": "Infiltrate tank maintenance yard, and gain access to ammo storage building."
+    },
+    {
+        "key": "M8_OBJ3",
+        "value": "Obtain map computer and homing beacon."
+    },
+    {
+        "key": "M8_OBJ4",
+        "value": "Fix and set homing beacon on SAM launcher for airstrike."
+    },
+    {
+        "key": "M8_OBJ5",
+        "value": "Infiltrate listening post and radar."
+    },
+    {
+        "key": "M8_OBJ6",
+        "value": "Move to ERV."
+    },
+    {
+        "key": "M9_OBJ1",
+        "value": "Enter base and disarm security system."
+    },
+    {
+        "key": "M9_OBJ2",
+        "value": "Enter high security compound and board train."
+    },
+    {
+        "key": "M9_OBJ3",
+        "value": "Eliminate all resistance."
+    },
+    {
+        "key": "M10_OBJ1",
+        "value": "Obtain proximity mines from storage depot."
+    },
+    {
+        "key": "M10_OBJ2",
+        "value": "To proceed to highest building in abandoned village and await evacuation."
+    },
+    {
+        "key": "M11_OBJ1",
+        "value": "Locate and retrieve the sniper rifle."
+    },
+    {
+        "key": "M11_OBJ2",
+        "value": "Power up the cable car by switching the generator back on."
+    },
+    {
+        "key": "M11_OBJ3",
+        "value": "Activate the cable car controls."
+    },
+    {
+        "key": "M12_OBJ1",
+        "value": "Locate the bomb and disable it, Find Ekk and kill her."
+    },
+    {
+        "key": "M13_OBJ1",
+        "value": "Penetrate the perimeter."
+    },
+    {
+        "key": "M13_OBJ2",
+        "value": "Secure deployment zone for Anya and friendly forces."
+    },
+    {
+        "key": "M13_OBJ3",
+        "value": "Power on the Generator in the Generator building."
+    },
+    {
+        "key": "M13_OBJ4",
+        "value": "Turn on the transformator in the large storage building."
+    },
+    {
+        "key": "M13_OBJ5",
+        "value": "Open the doors for the weapons factory."
+    },
+    {
+        "key": "M13_OBJ6",
+        "value": "Get trough the weapons factory."
+    },
+    {
+        "key": "M13_OBJ7",
+        "value": "Get past the entrance to the cooling tower section without the alarm going off..."
+    },
+    {
+        "key": "M13_OBJ8",
+        "value": "Enter the Underground complex."
+    },
+    {
+        "key": "M14_OBJ1",
+        "value": "Find Ekk and kill her."
+    },
+    {
+        "key": "M14_OBJ2",
+        "value": "Locate the bomb and disable it."
+    }
+]

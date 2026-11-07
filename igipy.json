@@ -1,0 +1,16 @@
+{
+  "igi1": {
+    "collect_is_zip": false,
+    "convert_is_zip": false,
+    "game_dir": "F:/Game/IGI 1 - dev/PC",
+    "collect_path": "igi1_collected",
+    "convert_path": "igi1_converted"
+  },
+  "igi2": {
+    "collect_is_zip": false,
+    "convert_is_zip": false,
+    "game_dir": "F:/Game/IGI 1 - dev/PC",
+    "collect_path": "igi2_collected",
+    "convert_path": "igi2_converted"
+  }
+}
